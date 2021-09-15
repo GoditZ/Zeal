@@ -1,0 +1,28 @@
+@font-face {
+    font-family: capture;
+    src: url(../fonts/capture.ttf);
+
+  }
+body {
+    font-size: 24px;
+    font-family: capture;
+}
+button {
+    font-size: 24px;
+}
+label {
+    display: block;
+}
+
+input
+label {
+    margin: .4rem 0;
+}
+.man{
+    font-size: 24px;
+    size: 5px;
+}
+.man p{
+    font-size: 24px;
+ ;
+}
